@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Financial Tracker (Java)
 
 This is a simple Java project I built to track money going in and out. You can enter deposits (like getting paid) or payments (like buying something), and it saves everything to a file so you can keep track.
@@ -86,3 +87,7 @@ I committed changes as I worked on different parts, like:
 - Writing the README
 
 The commits show my progress step-by-step.
+=======
+# FinancialTrackerCapstone1
+An Application to keep track of your transactions
+>>>>>>> f82ff38238f3e8f2e7116d8b5ec7696804b0f9e3
